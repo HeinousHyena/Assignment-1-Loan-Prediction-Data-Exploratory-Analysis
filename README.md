@@ -1,3 +1,5 @@
+Link to colab : https://colab.research.google.com/drive/1d2QFZp6dqFKnc9A6JVMLB3W41OKYPq3A#scrollTo=Ry3QDi7lGvuh
+
 # Loan_Prediction_Data_Exp-loratory_Analysis
 #**UNIVARIATE ANALYSIS**
 import pandas as pd
